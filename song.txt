@@ -22,3 +22,5 @@ coup in feture
 for tag only
 
 save content to stash only
+
+commit 1 in feature
