@@ -24,3 +24,4 @@ for tag only
 save content to stash only
 
 commit 1 in feature
+commit 2 in feature
